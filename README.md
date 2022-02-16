@@ -4,4 +4,4 @@
 
 
 BoetDocker is a container that installs all my Linux programs automatically that I use.
-This is based of BoetDebian from @hacker41d4n <link> https://github.com/hacker41d4n/BoetDebian </link>
+This is based of BoetDebian from @hacker41d4n https://github.com/hacker41d4n/BoetDebian
