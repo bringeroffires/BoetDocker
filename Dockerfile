@@ -1,5 +1,5 @@
 FROM python:3 
 
-ADD setup.py /
+ADD app/setup.py /
 
-CMD [ "python", "./setup.py" ]
+CMD [ "python", "./app/setup.py" ]
