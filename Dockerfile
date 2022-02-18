@@ -1,7 +1,5 @@
 FROM python:3 
 
-WORKDIR /app
+ADD setup.py /
 
-COPY . /app
-
-RUN ./app/ "setup.py" 
+CMD [ "python, "./setup.py" ]
