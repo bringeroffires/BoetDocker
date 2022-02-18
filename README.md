@@ -27,18 +27,18 @@ on your Linux Operating System.
 sudo apt install docker.io 
 ```
 
-## Container Pull
+## Container Pull:
 
 ```
 docker pull wannock/boetdocker
 ```
-## Container Run
+## Container Run:
 
 ```
 docker run wannock/boetdocker
 ```
 
-## Finished 
+## Finished:
 
 ```
 Your container installed all the programs I use on a daily use.
