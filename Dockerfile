@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY . /app
 
-RUN ./app/ --name "setup.py" 
+RUN ./app/ "setup.py" 
