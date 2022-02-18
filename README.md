@@ -21,3 +21,9 @@ Project Mananger: bringeroffires
 Make shure you have Docker installed 
 on your Linux Operating System.
 
+## Docker Install:
+
+```
+sudo apt install docker.io 
+```
+
