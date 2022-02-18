@@ -1,5 +1,7 @@
 FROM python:3 
 
+WORKDIR /app
+
 ADD setup.py /app
 
-CMD [ "python", "./setup.py/app" ]
+RUN find . --name ".py"

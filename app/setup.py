@@ -21,3 +21,4 @@ print(" ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚
 os.system("sudo apt update -y")
 os.system("sudo apt upgrade -y")
 
+print("This script worked")
