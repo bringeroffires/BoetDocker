@@ -1,5 +1,5 @@
-FROM python:3 
+FROM bash 
 
-ADD setup.py /
+ADD setup.sh /
 
-CMD [ "python", "./setup.py" ]
+CMD [ "bash", "./setup.sh" ]
