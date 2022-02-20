@@ -2,4 +2,4 @@ FROM python:3
 
 ADD setup.py /
 
-CMD [ "python", "./setup.sh" ]
+CMD [ "python", "./setup.py" ]
